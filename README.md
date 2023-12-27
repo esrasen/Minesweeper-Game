@@ -31,6 +31,9 @@
 <h2 id="proje-ozeti"> :mag_right: Proje Özeti</h2>
 
 <p align="justify"> 
+İki boyutlu diziler kullanılarak oluşturulan bu oyunun amacı bir alanda mayınlara rastlamadan tüm boş kareleri açmaktır. Satır ve sütun bilgisi girilerek açılan her boş alanda üstünde çıkan sayılar ise etrafındaki mayın sayısının toplamını gösterir.
+Kullanıcının girdiği satır sütun bilgisine göre oyun alanının büyüklüğü değişebilir.Girilen satır sütunda mayın varsa oyun kaybedilir ve sona erer.
+
 </p>
 
 
